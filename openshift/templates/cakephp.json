@@ -135,7 +135,7 @@
           }
         ],
         "postCommit": {
-          "script": "./lib/Cake/Console/cake test app AllTests"
+          
         }
       }
     },
